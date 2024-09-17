@@ -1,7 +1,3 @@
-Here’s a complete GitHub README for the repository on LinkedIn profile creation, resume writing, and interview preparation:
-
----
-
 # Professional Development Guide
 
 Welcome to the **Professional Development Guide**! This repository is a one-stop resource to help you create a standout LinkedIn profile, write an impressive resume, and prepare for interviews based on the Amazon Leadership Principles and the STAR method.
